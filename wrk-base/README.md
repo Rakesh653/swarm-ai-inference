@@ -4,6 +4,10 @@
 
 This repository extends the existing worker-based architecture to demonstrate a decentralized AI inference platform over Hyperswarm RPC. It is intentionally minimal but designed to make distributed system decisions explicit in code and documentation.
 
+**System Design Document**
+
+See `docs/architecture.md` for the full system design, user flow diagrams, discovery and communication details, storage/replication plan, and scalability/robustness strategy.
+
 **Architecture Summary**
 
 - Client sends inference requests to Gateway via Hyperswarm RPC.
