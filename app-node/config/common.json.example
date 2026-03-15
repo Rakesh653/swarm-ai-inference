@@ -1,0 +1,13 @@
+{
+  "debug": 0,
+  "signUpSecret": "SIGN_UP_SECRET",
+  "orks": {
+    "cluster-1": {
+      "rpcPublicKey": "RPC_PUBLIC_KEY"
+    }
+  },
+  "signUpRoles": [
+    "customer",
+    "librarian"
+  ]
+}

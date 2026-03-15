@@ -1,0 +1,4 @@
+{"level":30,"time":1773502482202,"pid":8496,"hostname":"Lenova-Thakur","name":"wrk:proc:image_inference:8496","rpcPublicKey":"e81c32cfa269705b1d1a2605ce2424aba8ba3e55a9ca9fb5bd7648e80a744554","capabilities":["embedding"],"msg":"image worker rpc ready"}
+{"level":30,"time":1773502484680,"pid":8496,"hostname":"Lenova-Thakur","name":"wrk:proc:image_inference:8496","topics":["ai-workers"],"peerKey":"d55e33203da082eb2e3036ae32bff5f665d192ac5b8b4e3a8c7326639b56d2ef","client":false,"msg":"swarm connection"}
+{"level":30,"time":1773502484681,"pid":8496,"hostname":"Lenova-Thakur","name":"wrk:proc:image_inference:8496","router":"e7137509d02ba8347efd454522b74ad2763e03794233e73a1c1327a54c820a00","msg":"router discovered"}
+{"level":30,"time":1773502485308,"pid":8496,"hostname":"Lenova-Thakur","name":"wrk:proc:image_inference:8496","topics":["ai-workers"],"peerKey":"bd6564b6e99d46ca91714c840cae930d18bc99e6836bb11551248a78afd0792d","client":true,"msg":"swarm connection"}

@@ -1,0 +1,6 @@
+{
+  "collectSnapsItvMs": 60000,
+  "storeSnapItvMs": 300000,
+  "thingQueryConcurrency": 25,
+  "collectSnapTimeoutMs": 120000
+}

@@ -1,0 +1,17 @@
+{
+  "a0": {
+    "superAdmin": "paolo@tether.to",
+    "ttl": 5000,
+    "saltRounds": 10,
+    "roles": {
+      "librarian": [
+        "books:rw",
+        "checkout:rw"
+      ],
+      "customer": [
+        "books:r",
+        "checkout:rw"
+      ]
+    }
+  }
+}

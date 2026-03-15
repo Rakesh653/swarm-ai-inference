@@ -1,0 +1,23 @@
+{
+  "name": "wrk-book",
+  "version": "1.0.0",
+  "description": "A book worker for poc. It extends from the tpl-wrk-thing worker class.",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "keywords": [
+    "tpl",
+    "wrk",
+    "server"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "3.2.5",
+    "bfx-svc-boot-js": "git+https://github.com/bitfinexcom/bfx-svc-boot-js.git",
+    "tpl-wrk-thing": "file:../tpl-wrk-thing/"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "debug": 0,
+  "rpcTimeoutMs": 2000,
+  "rpcRetries": 1,
+  "routingStrategy": "round_robin"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "app-node",
+  "version": "1.0.0",
+  "description": "An http service that facilitates communication b/w frontent and worker services",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "app",
+    "node"
+  ],
+  "dependencies": {
+    "@bitfinexcom/lib-js-util-base": "git+https://github.com/bitfinexcom/lib-js-util-base.git",
+    "async": "3.2.6",
+    "bfx-facs-db-sqlite": "git+https://github.com/bitfinexcom/bfx-facs-db-sqlite.git",
+    "bfx-facs-http": "git+https://github.com/bitfinexcom/bfx-facs-http.git",
+    "bfx-facs-interval": "git+https://github.com/bitfinexcom/bfx-facs-interval.git",
+    "bfx-facs-lru": "git+https://github.com/bitfinexcom/bfx-facs-lru.git",
+    "bfx-svc-boot-js": "git+https://github.com/bitfinexcom/bfx-svc-boot-js.git",
+    "hyperswarm": "4.8.4",
+    "svc-facs-httpd": "git+https://github.com/tetherto/svc-facs-httpd.git",
+    "wrk-base": "file:../wrk-base"
+  },
+  "devDependencies": {
+    "http-server": "14.1.1",
+    "standard": "17.1.0"
+  },
+  "engine": {
+    "node": ">=16.0"
+  }
+}

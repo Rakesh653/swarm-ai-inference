@@ -1,0 +1,3 @@
+{"level":30,"time":1773502481914,"pid":23052,"hostname":"Lenova-Thakur","name":"wrk:proc:gateway:23052","rpcPublicKey":"d86d43a44d8120a8bcbd4921689b6b90c7278c8f5bd7cd7c08febc3862062695","msg":"gateway rpc ready"}
+{"level":30,"time":1773502484589,"pid":23052,"hostname":"Lenova-Thakur","name":"wrk:proc:gateway:23052","topics":["ai-routers"],"peerKey":"d55e33203da082eb2e3036ae32bff5f665d192ac5b8b4e3a8c7326639b56d2ef","client":false,"msg":"swarm connection"}
+{"level":30,"time":1773502484589,"pid":23052,"hostname":"Lenova-Thakur","name":"wrk:proc:gateway:23052","router":"e7137509d02ba8347efd454522b74ad2763e03794233e73a1c1327a54c820a00","msg":"registered router"}
